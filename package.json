@@ -1,6 +1,23 @@
 {
   "name": "angular-boilterplate",
+  "authors": [
+    "Alain Mereaux <pulsarblow@gmail.com>"
+  ],
   "version": "0.1.0",
+  "description": "A lightweight Angular application boilerplate, stripped to its bare minimum, powered by an optimized build system.",
+  "main": "app/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PulsarBlow/angular-boilerplate"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PulsarBlow/angular-boilerplate/issues"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "homepage": "https://github.com/PulsarBlow/angular-boilerplate",
   "devDependencies": {
     "browser-sync": "^1.7",
     "del": "^0.1",
