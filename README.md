@@ -35,7 +35,7 @@ will serve the production version of your app (dist dir)
 
 The easiest method (but least advised), is to grap the [latest release](https://github.com/PulsarBlow/angular-boilerplate/archive/0.1.0.zip) source files and unzip it in a place of your choice.
 
-##### Git installation
+###### Git installation
 
 This is the prefered method. 
 Use git to clone the repository in a directory of your choice. 
