@@ -29,14 +29,34 @@ will serve the production version of your app (dist dir)
 
 ## How to install, use
 
-Either download the latest release and unzip in in your local development directory, or clone the repository directly :
+### Install
 
- ``` git clone https://github.com/pulsarblow/angular-boilerplate MY_APP_NAME```
+###### Manual installation
 
-Install npm and bower packages
+The easiest method (but least advised), is to grap the [latest release](https://github.com/PulsarBlow/angular-boilerplate/archive/0.1.0.zip) source files and unzip it in a place of your choice.
+
+##### Git installation
+
+This is the prefered method. 
+Use git to clone the repository in a directory of your choice. 
+By using this method you will be able to fetch and merge futur commits (eg. bug fixes) directly in your project.
+
+1. Start by cloning the repository  
+``` git clone https://github.com/pulsarblow/angular-boilerplate MY_APP_NAME``` 
+
+2. Rename the origin remote to upstream. Doing that you'll be able to reuse the origin remote name for your project.
+``` git remote rename origin upstream```
+
+### Use
+
+1. Install node and bower packages
 ``` npm install ```
 ``` bower install ```
 
-Configure your app settings in *app/scripts/app.config.js*
+2. Configure your app settings in *app/scripts/app.config.js*
+
+Run your local server and start coding
+
+```gulp serve```
 
 
