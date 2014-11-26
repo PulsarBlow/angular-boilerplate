@@ -1,3 +1,5 @@
+[![Gulp.js](http://img.shields.io/badge/built%20with-gulp.js-brightgreen.svg?style=flat-square)](http://gulpjs.com/)
+
 > A lightweight Angular application boilerplate, stripped to its bare minimum, powered by an optimized build system.
  
 ## What you get
