@@ -33,7 +33,7 @@ will serve the production version of your app (dist dir)
 
 ###### Manual installation
 
-The easiest method (but least advised), is to grap the [latest release](https://github.com/PulsarBlow/angular-boilerplate/archive/0.1.0.zip) source files and unzip it in a place of your choice.
+The easiest method (but least advised), is to grap the [latest release](https://github.com/PulsarBlow/angular-boilerplate/releases/latest) source files and unzip it in a place of your choice.
 
 ###### Git installation
 
