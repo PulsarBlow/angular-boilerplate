@@ -1,8 +1,8 @@
 {
   "name": "angular-boiletplate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
-    "PulsarBlow <pulsarblow@gmail.com>"
+    "Alain Mereaux <pulsarblow@gmail.com>"
   ],
   "main": "app/index.html",
   "license": "MIT",
